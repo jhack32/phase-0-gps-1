@@ -1,9 +1,9 @@
-** THIS IS OUR GPS 1.1 page**
+**THIS IS OUR GPS 1.1page**
 
-* This is our style*
+*This is our style*
 
-'puts "How are you copperheads?!"'
+`puts "How are you copperheads?!"`
 
 [Our Github gps1.1 link](https://github.com/jhack32/phase-0-gps-1)
 
-![Our screenshot](./screenshot.jpg)
+![Our screenshot](https://github.com/jhack32/phase-0-gps-1/blob/master/screenshot.png)
