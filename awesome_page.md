@@ -4,7 +4,8 @@
 
 `puts "How are you copperheads?!"`
 
-## Hello Copperheads!!!
+## Hello Copperheads
+
 
 [Our Github gps1.1 link](https://github.com/jhack32/phase-0-gps-1)
 
