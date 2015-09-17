@@ -6,4 +6,4 @@
 
 [Our Github gps1.1 link](https://github.com/jhack32/phase-0-gps-1)
 
-![Our screenshot](https://github.com/jhack32/phase-0-gps-1/blob/master/screenshot.png)
+![Our screenshot](https://github.com/jhack32/phase-0-gps-1/blob/master/screenshot.jpg)
